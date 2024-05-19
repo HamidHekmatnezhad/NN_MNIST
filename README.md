@@ -21,3 +21,8 @@ To maintain the integrity of the model's performance on new datasets, it is cruc
 - **scipy**==1.13.0
 
 **[Artikel - in persian language](https://docs.google.com/document/d/1_BfeoZNyo_W1c6rmdG1JzUO3GuJJeaw0KLrDfq47dwc/edit?usp=sharing)**
+
+## Note
+You can test the network with new data, but because the network is trained with clean data and the number recognition algorithm is not implemented, it cannot recognize noisy data, and gives wrong output.
+
+**[site on Streamlit cload](https://nnmnist.streamlit.app/)**
