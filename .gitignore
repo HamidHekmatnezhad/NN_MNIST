@@ -2,3 +2,5 @@ venv
 data
 note.txt
 main_8layers.weights.h5
+knn_model.pkl
+test
